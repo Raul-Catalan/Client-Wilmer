@@ -2,6 +2,10 @@
 
 Static React Web Page For Wilmer Gonzalez
 
+### Upcoming features?
+
+Posting Open houses
+
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
