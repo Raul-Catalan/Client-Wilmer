@@ -5,6 +5,7 @@ Static React Web Page For Wilmer Gonzalez
 ### Upcoming features?
 
 Posting Open houses
+Creating a calender feature
 
 ## Getting Started with Create React App
 
